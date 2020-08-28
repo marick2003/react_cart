@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="389.831" height="272.793" viewBox="0 0 389.831 272.793">
+  <g id="蓝_近五期框底" data-name="蓝 近五期框底" transform="translate(-12.169 -382.206)">
+    <g id="矩形_62" data-name="矩形 62" transform="translate(12.169 382.206)" fill="#fff" stroke="#004172" stroke-width="5">
+      <rect width="389.831" height="272.793" stroke="none"/>
+      <rect x="2.5" y="2.5" width="384.831" height="267.793" fill="none"/>
+    </g>
+    <line id="直线_17" data-name="直线 17" x2="343" transform="translate(30.5 440.5)" fill="none" stroke="#fed2d2" stroke-width="1" stroke-dasharray="4"/>
+    <line id="直线_18" data-name="直线 18" x2="343" transform="translate(30.5 492.5)" fill="none" stroke="#fed2d2" stroke-width="1" stroke-dasharray="4"/>
+    <line id="直线_19" data-name="直线 19" x2="343" transform="translate(30.5 544.5)" fill="none" stroke="#fed2d2" stroke-width="1" stroke-dasharray="4"/>
+    <line id="直线_20" data-name="直线 20" x2="343" transform="translate(30.5 596.5)" fill="none" stroke="#fed2d2" stroke-width="1" stroke-dasharray="4"/>
+  </g>
+</svg>

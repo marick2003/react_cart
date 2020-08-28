@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="207" height="78" viewBox="0 0 207 78">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.251" x2="0.69" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#f2f2f2"/>
+    </linearGradient>
+    <filter id="圖表統計-按鈕按下-189X60" x="0" y="0" width="207" height="78" filterUnits="userSpaceOnUse">
+      <feOffset dy="-3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#圖表統計-按鈕按下-189X60)">
+    <path id="圖表統計-按鈕按下-189X60-2" data-name="圖表統計-按鈕按下-189X60" d="M38,0H151c20.987,0,38,13.431,38,30s-17.013,30-38,30H38C17.013,60,0,46.569,0,30S17.013,0,38,0Z" transform="translate(9 12)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+<svg id="开奖公告" xmlns="http://www.w3.org/2000/svg" width="1180.001" height="190" viewBox="0 0 1180.001 190">
+  <g id="减去_1" data-name="减去 1" transform="translate(0 0)" fill="#fff">
+    <path d="M 1177.5009765625 187.1701812744141 L 2.500087738037109 187.1701812744141 L 2.500087738037109 46.5820198059082 L 318.6496276855469 46.5820198059082 L 319.6784057617188 46.5820198059082 L 320.4091796875 45.8580207824707 L 364.1734619140625 2.500021457672119 L 1177.501220703125 2.500021457672119 L 1177.5009765625 187.1701812744141 Z" stroke="none"/>
+    <path d="M 1175.0009765625 184.6701812744141 L 1175.001220703125 5.000021457672119 L 365.2022094726563 5.000021457672119 L 322.168701171875 47.6340217590332 L 320.7070007324219 49.0820198059082 L 318.6496276855469 49.0820198059082 L 5.000087738037109 49.0820198059082 L 5.000087738037109 184.6701812744141 L 1175.0009765625 184.6701812744141 M 1180.001220703125 189.6701812744141 L 1180.0009765625 189.6701812744141 L 1180.001220703125 189.6701812744141 Z M 1180.001220703125 189.6701812744141 L 8.77779457368888e-05 189.6701812744141 L 8.77779457368888e-05 44.0820198059082 L 318.6496276855469 44.0820198059082 L 363.1447143554688 2.134352507709991e-05 L 1180.001220703125 2.134352507709991e-05 L 1180.0009765625 189.6701812744141 Z" stroke="none" fill="#d6d6d6"/>
+  </g>
+  <path id="路径_37" data-name="路径 37" d="M83.3,0H479V190H-19.683Z" transform="translate(701.001)" fill="#e9e9e9"/>
+  <g id="组_27" data-name="组 27" transform="translate(807.001 96.75)">
+    <g id="组_10" data-name="组 10" transform="translate(0 0)">
+      <rect id="矩形_16" data-name="矩形 16" width="46" height="60" fill="#fff"/>
+      <rect id="矩形_24" data-name="矩形 24" width="44" height="60" transform="translate(118)" fill="#fff"/>
+      <rect id="矩形_26" data-name="矩形 26" width="45" height="60" transform="translate(235)" fill="#fff"/>
+      <rect id="矩形_22" data-name="矩形 22" width="45" height="60" transform="translate(50)" fill="#fff"/>
+      <rect id="矩形_23" data-name="矩形 23" width="44" height="60" transform="translate(168)" fill="#fff"/>
+      <rect id="矩形_25" data-name="矩形 25" width="46" height="60" transform="translate(284)" fill="#fff"/>
+      <g id="组_8" data-name="组 8" transform="translate(103 17)">
+        <circle id="椭圆_2" data-name="椭圆 2" cx="3.5" cy="3.5" r="3.5"/>
+        <circle id="椭圆_3" data-name="椭圆 3" cx="3" cy="3" r="3" transform="translate(0 21)"/>
+      </g>
+      <g id="组_9" data-name="组 9" transform="translate(220 17)">
+        <circle id="椭圆_2-2" data-name="椭圆 2" cx="3.5" cy="3.5" r="3.5"/>
+        <circle id="椭圆_3-2" data-name="椭圆 3" cx="3" cy="3" r="3" transform="translate(0 21)"/>
+      </g>
+    </g>
+  </g>
+</svg>

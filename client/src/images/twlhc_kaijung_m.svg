@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="150" viewBox="0 0 390 150">
+  <g id="首页-台湾六合彩_开奖底" data-name="首页-台湾六合彩 开奖底" transform="translate(-12 -393)">
+    <g id="减去_1" data-name="减去 1" transform="translate(12.169 393.206)" fill="#fff">
+      <path d="M 387.3305053710938 147.2923583984375 L 2.50000262260437 147.2923583984375 L 2.50000262260437 31.00750541687012 L 87.27570343017578 31.00750541687012 L 88.412353515625 31.00750541687012 L 89.15959930419922 30.15095520019531 L 113.2819595336914 2.499955654144287 L 387.3305053710938 2.499955654144287 L 387.3305053710938 147.2923583984375 Z" stroke="none"/>
+      <path d="M 384.8305053710938 144.7923889160156 L 384.8305053710938 4.999969005584717 L 114.4186019897461 4.999969005584717 L 91.04346466064453 31.79444313049316 L 89.54904174804688 33.50749588012695 L 87.27572631835938 33.50749588012695 L 4.99998950958252 33.50749588012695 L 4.99998950958252 144.7923889160156 L 384.8305053710938 144.7923889160156 M 389.8305053710938 149.7934417724609 L 389.8305053710938 149.7923889160156 L -1.047234763973393e-05 149.7923889160156 L -1.047234763973393e-05 28.50749588012695 L 87.27572631835938 28.50749588012695 L 112.1453018188477 -3.121466215816326e-05 L 389.8305053710938 -3.121466215816326e-05 L 389.8305053710938 149.7924499511719 L 389.8305053710938 149.7934417724609 Z" stroke="none" fill="#277d4f"/>
+    </g>
+    <path id="路径_6" data-name="路径 6" d="M0,0H91.337L69.385,24.87H0Z" transform="translate(12 394.273)" fill="#277d4f"/>
+    <path id="路径_4" data-name="路径 4" d="M35.556-2.918H42.1L18.137,24.621H11.592Z" transform="translate(80.254 395.918)" fill="#277d4f"/>
+    <path id="路径_5" data-name="路径 5" d="M35.556-2.918H42.1L18.137,24.621H11.592Z" transform="translate(71.12 395.918)" fill="#277d4f"/>
+    <path id="路径_27" data-name="路径 27" d="M295.975,31.705l-299.118.386L25.079-.734H296.118Z" transform="translate(103.171 394.621)" fill="#277d4f"/>
+    <g id="组_127" data-name="组 127" transform="translate(-100 173.908)">
+      <path id="联合_2" data-name="联合 2" d="M195,25.017,241.865,0H390V25.017Zm-195,0V0H148.135L195,25.017Z" transform="translate(112 343.635)" fill="#277d4f"/>
+    </g>
+    <path id="矩形_75" data-name="矩形 75" d="M0,0H190a10,10,0,0,1,10,10v0a10,10,0,0,1-10,10H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(17.169 439.424)" fill="#bfd9cb"/>
+    <text id="台湾六合彩" transform="translate(17.169 412.206)" fill="#fff" font-size="12" font-family="NotoSansCJKsc-Bold, Noto Sans CJK SC" font-weight="700" letter-spacing="0.038em"><tspan x="0" y="0">台湾六合彩</tspan></text>
+    <g id="组_358" data-name="组 358">
+      <rect id="矩形_16" data-name="矩形 16" width="28" height="20" rx="5" transform="translate(228 400)" fill="#fff"/>
+      <text id="天" transform="translate(258 417)" fill="#fff" font-size="9" font-family="NotoSansCJKsc-Medium, Noto Sans CJK SC" font-weight="500" letter-spacing="0.038em"><tspan x="0" y="0">天</tspan></text>
+      <rect id="矩形_16-2" data-name="矩形 16" width="28" height="20" rx="5" transform="translate(271 400)" fill="#fff"/>
+      <text id="时" transform="translate(301 417)" fill="#fff" font-size="9" font-family="NotoSansCJKsc-Medium, Noto Sans CJK SC" font-weight="500" letter-spacing="0.038em"><tspan x="0" y="0">时</tspan></text>
+      <rect id="矩形_16-3" data-name="矩形 16" width="28" height="20" rx="5" transform="translate(314 400)" fill="#fff"/>
+      <text id="分" transform="translate(344 417)" fill="#fff" font-size="9" font-family="NotoSansCJKsc-Medium, Noto Sans CJK SC" font-weight="500" letter-spacing="0.038em"><tspan x="0" y="0">分</tspan></text>
+      <rect id="矩形_16-4" data-name="矩形 16" width="28" height="20" rx="5" transform="translate(357 400)" fill="#fff"/>
+      <text id="秒" transform="translate(387 417)" fill="#fff" font-size="9" font-family="NotoSansCJKsc-Medium, Noto Sans CJK SC" font-weight="500" letter-spacing="0.038em"><tspan x="0" y="0">秒</tspan></text>
+    </g>
+  </g>
+</svg>

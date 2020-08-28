@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="391" height="235.499" viewBox="0 0 391 235.499">
+  <g id="组_619" data-name="组 619" transform="translate(0.5 0.5)">
+    <g id="组_601" data-name="组 601" transform="translate(0 0)">
+      <path id="联合_7" data-name="联合 7" d="M0,200.846V25.726H76.1v0H184.421L204.957,0H390V200.846Zm3-3H387V55H207.958L184.107,28.722l-83.193,0H3ZM176.986,23.479,193.132,3.793h-4.169L172.817,23.479h-4.632L184.331,3.8h-4.169L164.016,23.482H2.316c0-12.629,8.3-22.867,18.527-22.867H199.974L181.235,23.482Z" transform="translate(0 -0.001)" fill="#d9d9d9" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="路径_256" data-name="路径 256" d="M-35.018-298.834l179.53-.059v49l-176.857.059-22.235-24.5Z" transform="translate(242.488 301.836)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+    <g id="下拉" transform="translate(0 201)">
+      <rect id="矩形_668" data-name="矩形 668" width="390" height="34" fill="#d9d9d9"/>
+    </g>
+  </g>
+</svg>

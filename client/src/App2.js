@@ -26,7 +26,7 @@ function App() {
       title: 'Redux2',
       url: 'https://redux.js.org/',
       author: 'Dan Abramov, Andrew Clark',
-      num_comments: 5,
+      num_comments: 2,
       points: 5,
       objectID: 1,
     },
@@ -39,10 +39,16 @@ function App() {
       objectID: 2,
     },
   ];
-  const [searchVlue,setSearchVlue]=React.useState();
-  const [searchTerm, setSearchTerm] = React.useState(stories);
+  const [searchTerm, setSearchTerm] = React.useState('');
   const [searchArray, setSearchArray] = React.useState(stories);
+ 
+  
 
+  let searchedStories = (asd) =>{
+    setSearchArray(prev=> [...prev, ...stories]) ;
+  }
+
+  //return story.title.toLowerCase().includes(searchTerm.toLowerCase())
   const handleRemoveStory = item => {
     dispatchStories({
       type: 'REMOVE_STORY',
@@ -52,24 +58,17 @@ function App() {
 
   const handleSearch = event => {
     //setSearchTerm(event.target.value);
-    var _str=event.target.value.toLowerCase();
-   
-    setSearchArray( 
-      // searchTerm.filter(function(story) { 
-      //   console.log(_str);
-      //   console.log(story.title.toLowerCase().includes(_str));
-      //   return story.title.toLowerCase().includes(_str);
-      // })
-      _.filter(searchTerm, function(o) { return o.title.toLowerCase().includes(_str); })
-      
+    console.log(event.target.value.toLowerCase())
+    setSearchArray(prev=> {
+      [...stories.filter(story=>story.title.toLowerCase().includes(event.target.value.toLowerCase()))]
+    }
     );
-      //[  ]
+      //[ story.title.toLowerCase().includes(event.target.value.toLowerCase()) ]
   };
   function handleClick(asd){
-    console.log(asd);
     setSearchArray(prev=> [..._.sortBy(prev, asd)]);
   }
-  console.log(searchArray);
+  console.log(searchTerm);
 
   return (
     <div className="App">

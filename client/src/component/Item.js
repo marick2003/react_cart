@@ -1,7 +1,7 @@
 import React from 'react';
 
 function Item(data, onRemoveItem){
-    console.log(data.item);
+  
     return  <div style={{ display: 'flex' }}>
     <span style={{ width: '40%' }}>
       <a href={data.item.url}>{data.item.title}</a>

@@ -2,6 +2,7 @@
 
 import React from 'react';
 import WelcomeDialog from './component/welcomeDialog';
+import Logins from './page/login';
 
 /**
  * These are root pages
@@ -33,4 +34,14 @@ const Laptop = () => {
   return <h3>Laptop</h3>;
 };
 
-export { Home, Books, Electronics, Mobile, Desktop, Laptop };
+const Video=()=>{
+
+  return ;
+}
+
+const Login=()=>{
+
+  return  <Logins></Logins>;
+}
+
+export { Home, Books, Electronics, Mobile, Desktop, Laptop,Video,Login };

@@ -6,7 +6,7 @@ import Count from './component/Count';
 import LoggingButton from './component/LoggingButton';
 import Search from './component/Search';
 import Router from './router';
-import styles from './scss/style.scss'
+import './scss/style.scss';
 import { sortBy } from 'lodash';
 
 import './App.css';
@@ -74,7 +74,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Menu></Menu>  
+        <Menu ></Menu>  
       </header>
       <Search onSearch={handleSearch}></Search>
       <Count></Count>

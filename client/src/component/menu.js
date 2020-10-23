@@ -16,6 +16,9 @@ function Menu(){
             <a class="nav-link" href="/Electronics">Electronics</a>
         </li>
         <li class="nav-item">
+            <a class="nav-link" href="/Story">Story</a>
+        </li>
+        <li class="nav-item">
             <a class="nav-link disabled" href="#">Disabled</a>
         </li>
 

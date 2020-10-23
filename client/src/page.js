@@ -3,6 +3,7 @@
 import React from 'react';
 import WelcomeDialog from './component/welcomeDialog';
 import Logins from './page/login';
+import Stories from './page/Stories';
 
 /**
  * These are root pages
@@ -43,5 +44,8 @@ const Login=()=>{
 
   return  <Logins></Logins>;
 }
+const Story=()=>{
 
-export { Home, Books, Electronics, Mobile, Desktop, Laptop,Video,Login };
+  return  <Stories></Stories>;
+}
+export { Home, Books, Electronics, Mobile, Desktop, Laptop,Video,Login,Story };
